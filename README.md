@@ -8,3 +8,6 @@ In terms of passenger distribution by class, Class 3 accommodated the largest nu
 Analyzing the embarkation ports, it is evident that the majority of passengers boarded in Southampton, while the smallest contingent embarked from Cherbourg.
 
 Furthermore, the analysis underscores a significant trend in survival rates. Specifically, a higher proportion of females, particularly those belonging to the 1st class, survived the Titanic disaster, indicating a correlation between gender, class, and survival outcomes.
+
+
+resources : https://hatfullofdata.blog/
