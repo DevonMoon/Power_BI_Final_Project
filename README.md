@@ -15,4 +15,4 @@ resources : https://hatfullofdata.blog/
 			https://alluringbi.com/2019/10/21/background-concepts-for-power-bi/
 	
 			
-			
+			https://app.powerbi.com/groups/me/reports/73a4e69d-16bd-47ca-9478-97c3714eb988/ReportSection?experience=power-bi
